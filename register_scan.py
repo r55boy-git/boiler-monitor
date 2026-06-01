@@ -11,6 +11,7 @@ if client.connect():
     print("Connected")
     print()
 
+    #for address in range(0, 100, 10):
     for address in range(0, 100, 10):
 
         try:
